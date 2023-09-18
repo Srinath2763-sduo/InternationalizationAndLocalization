@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Generat Random Number"; ObjectID = "nZD-Ho-Lc0"; */
+"nZD-Ho-Lc0.configuration.title" = "Generat Random Number";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nZD-Ho-Lc0"; */
+"nZD-Ho-Lc0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1 Apple in the basket !"; ObjectID = "tZp-9t-kdM"; */
+"tZp-9t-kdM.text" = "Voici %d pomme";

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  InternationalizationAndLocalization
+
+  Created by Srinath Shah on 9/16/23.
+  
+*/
+
+"Here's %d apples" = "Voici %d pomme";
+"Generate Random Number" = "Générer un nombre aléatoire";
+"image" = "French";
